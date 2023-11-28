@@ -43,9 +43,9 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023年*，获得2023年度山东省自然资源科学技术一等奖。
-- *2023年*，获得地理信息科技进步奖二等奖。
-- *2023年*，获得2022年度优秀共享开放遥感数据集奖。
+- *2023年*，获得2023年度山东省自然资源科学技术一等奖。  
+- *2023年*，获得地理信息科技进步奖二等奖。  
+- *2023年*，获得2022年度优秀共享开放遥感数据集奖。  
 - *2023年*，获得山东建筑大学2022年度校级优秀指导教师一等奖。
 - *2023年*，指导学生参加第十七届“南方测绘杯”山东省大学生测量技能大赛无人机航测应用创新大赛，获得“二等奖”。
 - *2023年*，指导学生参加“建行杯”第九届山东省大学生科技创新大赛，获得“三等奖”及“铜牌指导教师”。
